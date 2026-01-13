@@ -1,4 +1,4 @@
 # Testowy-zatwierdzanie-zmian
 Repo do testowania zatwierdzania zmian
 
-#Teraz testuję zmiany w repo (Commit)
+### To jest zmiana wprowadzona w gałęzi testowej
